@@ -93,4 +93,10 @@ p {
     padding: 1rem 1.75rem;
     text-align: center;
   }
+  .modal {
+    width: 80%;
+    padding: 3rem;
+    top: 50%;
+    left: 50%;
+  }
 }
