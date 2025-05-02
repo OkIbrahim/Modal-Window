@@ -83,3 +83,14 @@ p {
   backdrop-filter: blur(3px);
   z-index: 5;
 }
+
+@media (max-width: 500px) {
+  .show-modal {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem 1.75rem;
+    text-align: center;
+  }
+}
